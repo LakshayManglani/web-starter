@@ -1,0 +1,16 @@
+{
+  "name": "setting-up-vs-code",
+  "version": "1.0.0",
+  "description": "This is created to be consitent with team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lakshay Manglani",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
